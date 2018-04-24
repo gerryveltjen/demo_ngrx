@@ -1,0 +1,34 @@
+{
+  "teamMembers": [
+    {
+      "Naam": "Veltjen",
+      "Voornaam": "Gerry",
+      "Team": "CS Nestor",
+      "Afbeelding": "Headphone"
+    },
+    {
+      "Naam": "Costa",
+      "Voornaam": "Renato",
+      "Team": "CS Nestor",
+      "Afbeelding": "Banana"
+    },
+    {
+      "Naam": "Jonckers",
+      "Voornaam": "Mario",
+      "Team": "CS Nestor",
+      "Afbeelding": "Supermario"
+    },
+    {
+      "Naam": "Schuurman",
+      "Voornaam": "Arjen",
+      "Team": "CS Nestor",
+      "Afbeelding": "Cheese"
+    },
+    {
+      "Naam": "Lippens",
+      "Voornaam": "Simon",
+      "Team": "CS Dabs",
+      "Afbeelding": "Lips"
+    }
+  ]
+}
